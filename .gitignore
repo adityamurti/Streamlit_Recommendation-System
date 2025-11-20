@@ -1,0 +1,10 @@
+# File besar (Wajib ada baris ini)
+*.pkl
+*.csv
+
+# Folder lingkungan virtual
+.venv/
+venv/
+
+# File rahasia
+.streamlit/secrets.toml
