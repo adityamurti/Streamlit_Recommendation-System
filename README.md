@@ -14,7 +14,7 @@ cd NAMA_REPO
 Pastikan kalian memiliki file dataset berikut di dalam folder project:
 - `tmdb_5000_movies.csv`
 - `tmdb_5000_credits.csv`
-*(Download disini : [dari Kaggle atau minta link GDrive ke saya](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata))*
+*(Download disini :(https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata))*
 
 ### 3. Install Library
 pip install pandas scikit-learn streamlit requests
