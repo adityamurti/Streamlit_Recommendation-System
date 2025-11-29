@@ -19,7 +19,7 @@ Pastikan kalian memiliki file dataset berikut di dalam folder project:
 ### 3. Install Library
 pip install pandas scikit-learn streamlit requests
 
-### 4. Generate Model (PENTING!)
+### 4. Generate Model (PENTING!) (jalanin yang setup_data.py
 Jalankan script ini **satu kali saja** untuk membuat file `similarity.pkl` dan `movies_clean.pkl`:
 python setup_data.py
 
