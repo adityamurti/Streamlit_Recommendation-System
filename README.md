@@ -25,5 +25,8 @@ python setup_data.py
 
 Tunggu sampai muncul tulisan "Selesai!".
 
-### 5. Jalankan Aplikasi
+### 5. Donwload File .pkl dari reza
+pastikan model file dari reza .pkl sudah ada di file main.py ini
+
+### 6. Jalankan Aplikasi
 streamlit run main.py
