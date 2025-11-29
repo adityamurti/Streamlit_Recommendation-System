@@ -1,10 +1,18 @@
-# File besar (Wajib ada baris ini)
-*.pkl
-*.csv
-
-# Folder lingkungan virtual
+# Abaikan virtual environment
 .venv/
 venv/
+env/
 
-# File rahasia
+# Abaikan file cache python
+__pycache__/
+*.pyc
+
+# Abaikan file sistem Mac/Windows
+.DS_Store
+
+# Abaikan file secrets (PENTING untuk keamanan)
 .streamlit/secrets.toml
+
+# OPSI: Abaikan file dataset besar dan model (rekomendasi saya)
+*.csv
+*.pkl
